@@ -36,7 +36,7 @@ This project focuses on analyzing credit card transactions and identifying fraud
 ## Project File
 The repository contains the Power BI dashboard file:
 
-`Credit_Risk_Analysis_Dashboard(1).pbix`
+[Download Power BI Dashboard](Credit_Risk_Analysis_Dashboard%281%29.pbix)
 
 ## Conclusion
 This dashboard provides an interactive overview of credit card fraud patterns and risk indicators. It helps explore transaction behavior, identify potential fraud trends, and understand the distribution of fraudulent activities across different dimensions.
