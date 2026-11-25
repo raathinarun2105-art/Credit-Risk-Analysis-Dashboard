@@ -17,6 +17,10 @@ This project focuses on analyzing credit card transactions and identifying fraud
 - Data Visualization
 - Data Analysis
 
+## Dashboard Preview
+
+![Credit Card Fraud Risk Analysis Dashboard](dashboard.png)
+
 ## Dashboard Features
 
 - **Fraud Risk Analysis:** Overview of fraud-related metrics and risk distribution.
